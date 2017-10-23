@@ -1,0 +1,15 @@
+	.blueBackground { 
+			background-color: cornflowerBlue; }
+			
+			.smallBorder
+			 {
+				border: 2px solid black;
+			}
+			.largeRedBorder {border: 10px solid red;}
+
+			h3 {
+				color: blue;
+			}
+
+			div {width: 300px;
+				margin:auto;}
